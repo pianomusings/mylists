@@ -24,3 +24,4 @@ newyorker.com##.parsely-root,.paywall-modal,.paywall-bar-wrapper
 ||cnevids.com^$script,third-party,domain=newyorker.com
 ||adobedtm.com^$script,third-party,domain=newyorker.com
 reddit.com##.dualpartinterstitial,.topbutton,.xpromopill,.xpromopopup,.adlinkbar
+test
