@@ -1,4 +1,4 @@
-theatlantic.com##.c-gate__container,.c-non-metered-nudge,.c-nudge,.c-gait,.c-nudge-compressed__container
+theatlantic.com##.c-gate__container,.c-non-metered-nudge,.c-nudge,.c-gait,.c-nudge-compressed__container,.c-nudge-expanded__container
 ||cdn.theatlantic.com/assets/static/a/frontend/js/theatlantic^$script
 ||cloudfront.net^$script,third-party,domain=theatlantic.com
 ||piano.io^$script,third-party,domain=theatlantic.com
