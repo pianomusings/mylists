@@ -1,0 +1,28 @@
+theatlantic.com##.c-gate__container,.c-non-metered-nudge,.c-nudge,.c-gait,.c-nudge-compressed__container,.c-nudge-expanded__container
+||cdn.theatlantic.com/assets/static/a/frontend/js/theatlantic^$script
+||cloudfront.net^$script,third-party,domain=theatlantic.com
+||piano.io^$script,third-party,domain=theatlantic.com
+||p-n.io^$script,third-party,domain=theatlantic.com
+||scroll.com^$script,third-party,domain=theatlantic.com
+||tinypass.com^$third-party
+||cdn.theatlantic.com/assets/static/a/frontend/theatlantic^$XMLHttpRequest
+theatlantic.com##body:style(overflow: auto !important; position: static !important)
+||assets.bwbx.io/s3/fence^$script,third-party,domain=bloomberg.com
+||meter.bostonglobe.com/js^$script,third-party,domain=bostonglobe.com
+||meter-svc.nytimes.com^$XMLHttpRequest
+||mwcm.nytimes.com/capi/metered_assets^$XMLHttpRequest
+||nytimes.com^$cookie=nyt-m;maxAge=5
+nytimes.com##.magnoliaDock
+||bounceexchange.com^$script,third-party
+||newyorker.com/js^$script
+||condenastdigital.com^$script, third-party, domain=newyorker.com
+||cloudfront.net^$script,third-party,domain=newyorker.com
+||newyorker.com/hotzones^$script
+||newyorker.com/verso^$script
+newyorker.com##.parsely-root,.paywall-modal,.paywall-bar-wrapper
+||newyorker.com/hotzones^$XMLHttpRequest
+||newyorker.com^$cookie=s_depth;maxAge=5
+||cnevids.com^$script,third-party,domain=newyorker.com
+||adobedtm.com^$script,third-party,domain=newyorker.com
+reddit.com##.dualpartinterstitial,.topbutton,.xpromopill,.xpromopopup,.adlinkbar
+pin1.harvard.edu#%#AG_onLoad(function(){document.getElementById("password").value = "Pigaoa15!Pigaoa15!";document.getElementById("username").value = "blake.alkire@post.harvard.edu";document.getElementById("submitLogin").click();});
