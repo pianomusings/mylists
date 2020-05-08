@@ -24,5 +24,4 @@ newyorker.com##.parsely-root,.paywall-modal,.paywall-bar-wrapper
 ||newyorker.com^$cookie=s_depth;maxAge=5
 ||cnevids.com^$script,third-party,domain=newyorker.com
 ||adobedtm.com^$script,third-party,domain=newyorker.com
-reddit.com##.dualpartinterstitial,.topbutton,.xpromopill,.xpromopopup,.adlinkbar
 pin1.harvard.edu#%#AG_onLoad(function(){document.getElementById("password").value = "Pigaoa15!Pigaoa15!";document.getElementById("username").value = "blake.alkire@post.harvard.edu";document.getElementById("submitLogin").click();});
